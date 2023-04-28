@@ -1,5 +1,7 @@
 # Simple Makrukthai AI
 
+![Makruk Board Recognition Screenshot](https://raw.githubusercontent.com/natstpt/Simple-Makrukthai-AI/main/img/screenshot.png)
+
 This repository contains a simple makrukthai AI that utilizes the Minimax algorithm with Alpha-Beta pruning for optimal performance. The AI evaluates board positions using piece-square tables to make the best move.
 
 ## Features
@@ -11,7 +13,7 @@ This repository contains a simple makrukthai AI that utilizes the Minimax algori
 
 ## Demo
 
-A simple demo can be found in the index.html file. Open the file in your browser to see the AI in action.
+A simple demo can be found in the `index.html` file. Open the file in your browser to see the AI in action.
 
 ## Acknowledgments
 
