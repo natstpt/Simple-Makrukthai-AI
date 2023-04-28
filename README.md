@@ -11,6 +11,13 @@ This repository contains a simple makrukthai AI that utilizes the Minimax algori
 - Compatible with the `chess.js` library
 - Integration with the `chessboard.js` library for visual representation in `index.html`
 
+## Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/chess-ai.git
+```
+
 ## Demo
 
 A simple demo can be found in the `index.html` file. Open the file in your browser to see the AI in action.
